@@ -37,6 +37,7 @@ No external/third-party packages required.
 ## Project Structure
 
 ```
+snakegame/
 ├── snake_game.py      # Main game source code
 ├── highscore.json     # Auto-generated high score file
 ├── Screenshot1.png
