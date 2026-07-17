@@ -1,6 +1,6 @@
 # 🐍 Snake
 
-A polished, feature-rich Snake game built with **Python + Tkinter** — created as a CBSE Class XI Computer Science final term project.
+A polished, feature-rich Snake game built with **Python + Tkinter** — created as a fun project.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
